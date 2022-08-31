@@ -14,7 +14,7 @@
 ## Time taken to finish this project
 
 - 12 hours taken to complete it.
-## Project 15 [Live Link]()
+## Project 15 [Live Link](https://lco-pjt15.netlify.app)
 #### Preview
 
 ![Desktop](./preview.jpg)
