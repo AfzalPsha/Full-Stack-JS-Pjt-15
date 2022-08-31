@@ -8,13 +8,13 @@
 
 
 - Skills Gained in this project
-  - learned to use flexbox exclusively & make background making more visually appealing. 
+  - learned to use flexbox exclusively & make background making more visually appealing.
 ---
 
 ## Time taken to finish this project
 
 - 12 hours taken to complete it.
-## Project 15 [Live Link](https://lco-pjt5.netlify.app)
+## Project 15 [Live Link]()
 #### Preview
 
 ![Desktop](./preview.jpg)
